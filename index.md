@@ -1,7 +1,7 @@
 ---
 ---
 
-# Equipe STIF ENNSTA cite de Brest
+# Equipe STIF ENSTA cite de Brest
 
 An engaging 1-3 sentence description of your lab.
 
