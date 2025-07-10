@@ -1,7 +1,7 @@
 ---
 ---
 
-# Equipe-Hydrodyn's Website
+# Equipe STIF ENNSTA cite de Brest
 
 An engaging 1-3 sentence description of your lab.
 
