@@ -5,6 +5,6 @@
 
   # Equipe-Hydrodyn's Website
 
-  Visit **[equipe-hydrodyn.github.io](https://equipe-hydrodyn.github.io)** 🚀
+  Visit **[equipe-hydrodyn.github.io/Equipe-Hydrodyn.github](https://equipe-hydrodyn.github.io/Equipe-Hydrodyn.github)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
