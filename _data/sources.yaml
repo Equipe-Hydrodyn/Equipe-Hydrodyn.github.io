@@ -1,23 +1,182 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+- id: doi:10.1016/j.oceaneng.2025.121419 # Podeur Tidal turbine 2025
+  image: https://doi.org/10.1016/j.oceaneng.2025.121419
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.17736/ijope.2020.mk66 # PM Guilcher impact 2020
+  image: https://doi.org/10.17736/ijope.2020.mk66
+  
+- id: doi:10.1007/s42286-019-00013-w # Scolan Guilcher impact 2020
+  image: https://link.springer.com/article/10.1007/s42286-019-00013-w
+  
+- id: doi:10.1016/j.optlastec.2020.106224 # Tahan Arrigoni laser shock 2020
+  image: https://doi.org/10.1016/j.optlastec.2020.106224
+  
+- id: doi:10.1155/2020/1497632 # Kerampran deto 2020
+  image: https://doi.org/10.1155/2020/1497632
+  
+- id: doi:10.1063/5.0010268 # Arrigoni carbon fiber 2020
+  image: https://doi.org/10.1063/5.0010268
+  
+- id: doi:10.1016/j.oceaneng.2020.107139 # Sacher dail 2020
+  image: https://doi.org/10.1016/j.oceaneng.2020.107139
+  
+- id: doi:10.1098/rsta.2019.0495 # Jochum  tidal 2020
+  image: https://doi.org/10.1098/rsta.2019.0495
+  
+- id: doi:10.3390/jmse8070486 # Leroux Kite 2020
+  image: https://doi.org/10.3390/jmse8070486
+  
+- id: doi:10.3390/app10186148 # Leroux kite 2 2020
+  image:  https://doi.org/10.3390/app10186148
+  
+- id: doi:10.1016/j.ijsolstr.2020.05.028 # Jacques strains 2020
+  image: https://doi.org/10.1016/j.ijsolstr.2020.05.028
+    
+- id: doi:10.1017/jfm.2020.559 # Jacques impact 2020
+  image: https://doi.org/10.1017/jfm.2020.559
+  
+- id: doi:10.1016/j.msea.2020.140258 #Jacques material 2020
+  image: https://doi.org/10.1016/j.msea.2020.140258
+      
+- id: doi:10.1142/S0219455420501102
+  image: https://doi.org/10.1142/S0219455420501102
+  
+- id: doi:10.3390/s21144800 # Arrigoni laser 2021
+  image: https://doi.org/10.3390/s21144800
+  
+- id: doi:10.3390/s21134429 # Tartier PVDF 2021
+  image: https://doi.org/10.3390/s21134429
+  
+- id: doi:10.1007/s10665-021-10116-4 # Scolan jet 2021
+  image: https://link.springer.com/article/10.1007/s10665-021-10116-4
+  
+- id: doi:10.1017/jfm.2020.864 # Monloubou foam 2021
+  image: https://doi.org/10.1017/jfm.2020.864
+  
+- id: doi:10.1016/j.oceaneng.2021.109345 # Hascoet wave 2021
+  image: https://doi.org/10.1016/j.oceaneng.2021.109345
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1016/j.ijsolstr.2021.111152 # Jacques strain 2021
+  image: https://doi.org/10.1016/j.ijsolstr.2021.111152
+  
+- id: doi:10.1016/j.jmps.2020.104189 # Jacques plastic ortho 2021
+  image: https://doi.org/10.1016/j.jmps.2020.104189
+  
+- id: doi:10.1007/s40870-021-00293-9 # Jacques straon 2 2021
+  image: https://link.springer.com/article/10.1007/s40870-021-00293-9
+  
+- id: doi:10.1615/Int.J.UncertaintyQuantification.2020032982  # Sacher optim 2021   
+  image: https://www.dl.begellhouse.com/journals/52034eb04b657aea,44206a5570d76285,1e78cad67b88a611.html#
+  
+- id: doi:10.1109/JOE.2021.3111819 # Arrigoni unexploded 2022
+  image: https://ieeexplore.ieee.org/document/9709367
+  
+- id: doi:10.37358/MP.22.1.5559 # Arrigoni platic 2022
+  image: https://revmaterialeplastice.ro/pdf/6%20ALIL.%201%2022.pdf
+  
+- id: doi:10.3390/met12101702 #  Arrigoni corosion 2022
+  image: https://doi.org/10.3390/met12101702
+  
+- id: doi:10.1016/j.oceaneng.2021.110210 # Sacher sail 2022
+  image: https://doi.org/10.1016/j.oceaneng.2021.110210
+  
+- id: doi:10.1016/j.oceaneng.2022.111209 # Sacher optim 2 2022
+  image: https://doi.org/10.1016/j.oceaneng.2022.111209
+  
+- id: doi:10.1016/j.ijplas.2022.103418 # Jacques ductile 2022
+  image: https://doi.org/10.1016/j.ijplas.2022.103418
+  
+- id: doi:10.1007/s12289-022-01696-2 # Jacques ductile 2 2022
+  image: https://link.springer.com/article/10.1007/s12289-022-01696-2
+  
+- id: doi:10.1016/j.jfluidstructs.2022.103605 # Jacques impact 2022
+  image: https://doi.org/10.1016/j.jfluidstructs.2022.103605
+  
+- id: doi:10.1016/j.jfluidstructs.2022.103702 # Alaoui impact 2022
+  image: https://doi.org/10.1016/j.jfluidstructs.2022.103702
+  
+- id: doi:10.1115/1.4052557 # Jacques formability 2022
+  image: https://doi.org/10.1115/1.4052557
+  
+- id: doi:10.1016/j.oceaneng.2022.112585 # Hascoet wave 2022
+  image: https://doi.org/10.1016/j.oceaneng.2022.112585
+  
+- id: doi:10.3390/met12020226 # Arrigoni metallic 2022
+  image:  https://doi.org/10.3390/met12020226
+  
+- id: doi:10.1016/j.euromechsol.2023.105060 # Arrigono projectile 2023
+  image: https://doi.org/10.1016/j.euromechsol.2023.105060
+  
+- id: doi:10.1016/j.matdes.2023.111779 # Alaoui composites 2023
+  image: https://doi.org/10.1016/j.matdes.2023.111779
+  
+- id: doi:10.3390/s23115161 # Arrigoni piezo 2023
+  image: https://doi.org/10.3390/s23115161
+  
+- id: doi:10.1002/adem.202201447 # arrigoni composit 2023
+  image: https://doi.org/10.1002/adem.202201447
+  
+- id: doi:10.1016/j.ijsolstr.2023.112290 # Arrigoni magnetic puls 2023
+  image: https://doi.org/10.1016/j.ijsolstr.2023.112290
+  
+- id: doi:10.1002/adem.202300728 # arrigoni magnetic puls num 2023
+  image:  https://doi.org/10.1002/adem.202300728
+  
+- id: doi:10.1063/5.0107499 # Arrigoni Schock wave 2023
+  image: https://doi.org/10.1063/5.0107499
+  
+- id: doi:10.1007/s11029-023-10075-0 # Neme kite 2023
+  image: https://link.springer.com/article/10.1007/s11029-023-10075-0
+  
+- id: doi:10.1016/j.euromechflu.2023.06.002 # Scolan wave 2023
+  image: https://doi.org/10.1016/j.euromechflu.2023.06.002
+  
+- id: doi:10.1007/s10665-022-10246-3 # Scolan wave 2 2023
+  image: https://link.springer.com/article/10.1007/s10665-022-10246-3
+  
+- id: doi:10.1016/j.oceaneng.2023.114116 # Scolan impact 2023
+  image: https://doi.org/10.1016/j.oceaneng.2023.114116
+  
+- id: doi:10.1016/j.euromechflu.2023.02.006 # Jacques impact 2023
+  image: https://doi.org/10.1016/j.euromechflu.2023.02.006
+  
+- id: doi:10.1016/j.ijimpeng.2023.104556 # Jacques gas gun 2023
+  image: https://doi.org/10.1016/j.ijimpeng.2023.104556
+
+- id: doi:10.1017/jfm.2022.705 # Arrigoni 2023
+  image: https://doi.org/10.1017/jfm.2022.705
+
+- id: doi:10.1016/j.compfluid.2024.106245 # Guilcher num 2024
+  image: https://doi.org/10.1016/j.compfluid.2024.106245
+
+- id: doi:10.3144/expresspolymlett.2024.77 # Alaoui composit 2024
+  image: https://doi.org/10.3144/expresspolymlett.2024.77
+
+- id: doi:10.1063/5.0232258 # Arrigoni high pressur 2024
+  image: https://doi.org/10.1063/5.0232258
+
+- id: doi:10.3144/expresspolymlett.2024.4 # Arrigoni polymer 2024
+  image: https://www.expresspolymlett.com/article.php?a=EPL-0012710
+
+- id: doi:10.1016/j.matlet.2024.136083 # Arrigoni laser shock 2024
+  image: https://doi.org/10.1016/j.matlet.2024.136083
+
+- id: doi:10.1016/j.apor.2024.104157 # Sacher hydrofoil 2024
+  image: https://doi.org/10.1016/j.apor.2024.104157
+
+- id: doi:10.1080/17445302.2024.2422518 # Sacher surogate 2024
+  image: https://doi.org/10.1080/17445302.2024.2422518
+
+- id: doi:10.1016/j.apor.2024.104123 # Scolan wave 2024
+  image: https://doi.org/10.1016/j.apor.2024.104123 # Scolan wave 2024
+
+- id: doi:10.1016/j.jsv.2024.118378 # Jacques wave 2024
+  image: https://doi.org/10.1016/j.jsv.2024.118378
+
+- id: doi:10.1016/j.ijmultiphaseflow.2024.104917 # Jacques cylinder 2024
+  image: https://doi.org/10.1016/j.ijmultiphaseflow.2024.104917
+
+- id: doi:10.1016/j.oceaneng.2024.118024 # Hascoet stab 2024
+  image: https://doi.org/10.1016/j.oceaneng.2024.118024
+
+- id: doi:10.1016/j.oceaneng.2024.117363 # Sacher optim 2024
+  image: https://doi.org/10.1016/j.oceaneng.2024.117363

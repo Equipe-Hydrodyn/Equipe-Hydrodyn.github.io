@@ -1,264 +1,888 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1016/j.oceaneng.2025.121419
+  title: Downstream tidal turbine transient local blade loading characterization
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
-  authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  - Vincent Podeur
+  - Lise Michaud
+  - Dominic Groulx
+  - Christian Jochum
+  publisher: Ocean Engineering
+  date: '2025-07-01'
+  link: https://doi.org/g9tcmh
+  image: https://doi.org/10.1016/j.oceaneng.2025.121419
   plugin: sources.py
   file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+- id: doi:10.17736/ijope.2020.mk66
+  title: "2D Simulations of Breaking Wave Impacts on a Flat Rigid Wall \u2013 Part\
+    \ 2: Influence of Scale"
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+  - Pierre-Michel Guilcher
+  - Yoann Jus
+  - Laurent Brosset
+  publisher: International Journal of Offshore and Polar Engineering
+  date: '2020-09-01'
+  link: https://doi.org/g9tcnm
+  image: https://doi.org/10.17736/ijope.2020.mk66
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s42286-019-00013-w
+  title: Wave Kinematics in a Two-Dimensional Plunging Breaker
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
+  - Yves-Marie Scolan
+  - Pierre-Michel Guilcher
+  publisher: Water Waves
+  date: '2019-08-08'
+  link: https://doi.org/g9tcnn
+  image: https://link.springer.com/article/10.1007/s42286-019-00013-w
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.optlastec.2020.106224
+  title: Evolution of failure pattern by laser induced shockwave within an adhesive
+    bond
+  authors:
+  - Gilles Tahan
+  - Michel Arrigoni
+  - Pierre Bidaud
+  - Laurent Videau
+  - "David Th\xE9venet"
+  publisher: Optics &amp; Laser Technology
+  date: '2020-09-01'
+  link: https://doi.org/g9tcnt
+  image: https://doi.org/10.1016/j.optlastec.2020.106224
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1155/2020/1497632
+  title: Replacing Detonation by Compressed Balloon Approaches in Finite Element Models
+  authors:
+  - Pierre Legrand
+  - S. Kerampran
+  - M. Arrigoni
+  publisher: Advances in Civil Engineering
   date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  link: https://doi.org/g9tcnz
+  image: https://doi.org/10.1155/2020/1497632
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1063/5.0010268
+  title: 'Characterization of a carbon fiber composite material for space applications
+    under high strains and stresses: Modeling and validation by experiments'
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - V. Jaulin
+  - J.-M. Chevalier
+  - M. Arrigoni
+  - E. Lescoute
+  publisher: Journal of Applied Physics
+  date: '2020-11-17'
+  link: https://doi.org/g5hqpb
+  image: https://doi.org/10.1063/5.0010268
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.oceaneng.2020.107139
+  title: "A fast and robust approach to compute nonlinear Fluid-Structure Interactions\
+    \ on yacht sails \u2013 Application to a semi-rigid composite mainsail"
+  authors:
+  - Matthieu Sacher
+  - Jean-Baptiste Leroux
+  - "Alain N\xEAme"
+  - Christian Jochum
+  publisher: Ocean Engineering
+  date: '2020-04-01'
+  link: https://doi.org/g9tctb
+  image: https://doi.org/10.1016/j.oceaneng.2020.107139
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1098/rsta.2019.0495
+  title: Characterization of the vertical evolution of the three-dimensional turbulence
+    for fatigue design of tidal turbines
+  authors:
+  - "Maxime Thi\xE9baut"
+  - "Jean-Fran\xE7ois Filipot"
+  - Christophe Maisondieu
+  - Guillaume Damblans
+  - Christian Jochum
+  - Levi F. Kilcher
+  - Sylvain Guillou
+  publisher: 'Philosophical Transactions of the Royal Society A: Mathematical, Physical
+    and Engineering Sciences'
+  date: '2020-07-27'
+  link: https://doi.org/g9tctc
+  image: https://doi.org/10.1098/rsta.2019.0495
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/jmse8070486
+  title: 'Ship Towed by Kite: Investigation of the Dynamic Coupling'
+  authors:
+  - Nedeleg Bigi
+  - Kostia Roncin
+  - Jean-Baptiste Leroux
+  - Yves Parlier
+  publisher: Journal of Marine Science and Engineering
+  date: '2020-07-01'
+  link: https://doi.org/g9tctd
+  image: https://doi.org/10.3390/jmse8070486
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/app10186148
+  title: Benchmark Sea Trials on a 6-Meter Boat Powered by Kite
+  authors:
+  - Kostia Roncin
+  - Morgan Behrel
+  - Paul Iachkine
+  - Jean-Baptiste Leroux
+  publisher: Applied Sciences
+  date: '2020-09-04'
+  link: https://doi.org/g9tctf
+  image: https://doi.org/10.3390/app10186148
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ijsolstr.2020.05.028
+  title: An analytical model for necking strains in stretched plates under dynamic
+    biaxial loading
+  authors:
+  - N. Jacques
+  publisher: International Journal of Solids and Structures
+  date: '2020-09-01'
+  link: https://doi.org/g9tctg
+  image: https://doi.org/10.1016/j.ijsolstr.2020.05.028
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1017/jfm.2020.559
+  title: Experimental investigation of the water entry and/or exit of axisymmetric
+    bodies
+  authors:
+  - Thibaut Breton
+  - A. Tassin
+  - N. Jacques
+  publisher: Journal of Fluid Mechanics
+  date: '2020-09-02'
+  link: https://doi.org/gptqxn
+  image: https://doi.org/10.1017/jfm.2020.559
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.msea.2020.140258
+  title: Effect of strain rate on tensile mechanical properties of high-purity niobium
+    single crystals for SRF applications
+  authors:
+  - J.-F. Croteau
+  - E. Pai Kulyadi
+  - C. Kale
+  - D. Siu
+  - D. Kang
+  - A.T. Perez Fontenla
+  - "E. Garc\xEDa-Tabar\xE9s Valdivieso"
+  - T.R. Bieler
+  - P. Eisenlohr
+  - K.N. Solanki
+  - D. Balint
+  - P.A. Hooper
+  - S. Atieh
+  - N. Jacques
+  - E. Cantergiani
+  publisher: 'Materials Science and Engineering: A'
+  date: '2020-10-01'
+  link: https://doi.org/g9tcth
+  image: https://doi.org/10.1016/j.msea.2020.140258
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1142/S0219455420501102
+  title: Investigation of the Torsional Effects on the Lateral Buckling of a Pipe-Like
+    Beam Resting on the Ground under Axial Compression
+  authors:
+  - Philippe Le Grognec
+  - "Alain N\xEAme"
+  - Jie Cai
+  publisher: International Journal of Structural Stability and Dynamics
+  date: '2020-08-01'
+  link: https://doi.org/g9tctj
+  image: https://doi.org/10.1142/S0219455420501102
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/s21144800
+  title: Experimental and Analytical Study of under Water Pressure Wave Induced by
+    the Implosion of a Bubble Generated by Focused Laser
+  authors:
+  - Zhaofeng Han
+  - Cyril Mauger
+  - Thibaut Chaise
+  - Thomas Elguedj
+  - Michel Arrigoni
+  - Mahmoud El Hajem
+  - Nicolas Boisson
+  publisher: Sensors
+  date: '2021-07-14'
+  link: https://doi.org/g9tcxh
+  image: https://doi.org/10.3390/s21144800
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/s21134429
+  title: PVDF Based Pressure Sensor for the Characterisation of the Mechanical Loading
+    during High Explosive Hydro Forming of Metal Plates
+  authors:
+  - "J\xE9r\xE9mie Tarti\xE8re"
+  - Michel Arrigoni
+  - "Alain N\xEAme"
+  - Hugo Groeneveld
+  - Sjoerd Van Der Veen
+  publisher: Sensors
+  date: '2021-06-28'
+  link: https://doi.org/gk752g
+  image: https://doi.org/10.3390/s21134429
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s10665-021-10116-4
+  title: Properties of the pressure field in highly nonlinear free surface flows with
+    critical jet
+  authors:
+  - Yves-Marie Scolan
+  - "St\xE9phane Etienne"
+  publisher: Journal of Engineering Mathematics
+  date: '2021-04-22'
+  link: https://doi.org/g9tcxj
+  image: https://link.springer.com/article/10.1007/s10665-021-10116-4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1017/jfm.2020.864
+  title: Impact of a shock wave on a heterogeneous foam film
+  authors:
+  - Quentin Raimbaud
+  - Martin Monloubou
+  - Steven Kerampran
+  - Isabelle Cantat
+  publisher: Journal of Fluid Mechanics
+  date: '2020-12-10'
+  link: https://doi.org/g9tcxk
+  image: https://doi.org/10.1017/jfm.2020.864
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.oceaneng.2021.109345
+  title: Effect of forward speed on the level-crossing distribution of kinematic variables
+    in multidirectional ocean waves
+  authors:
+  - "Romain Hasco\xEBt"
+  - Nicolas Raillard
+  - Nicolas Jacques
+  publisher: Ocean Engineering
+  date: '2021-09-01'
+  link: https://doi.org/g9tcxm
+  image: https://doi.org/10.1016/j.oceaneng.2021.109345
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ijsolstr.2021.111152
+  title: Influence on strain-rate history effects on the development of necking instabilities
+    under dynamic loading conditions
+  authors:
+  - N. Jacques
+  - "J.A. Rodr\xEDguez-Mart\xEDnez"
+  publisher: International Journal of Solids and Structures
+  date: '2021-11-01'
+  link: https://doi.org/gnzfvq
+  image: https://doi.org/10.1016/j.ijsolstr.2021.111152
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jmps.2020.104189
+  title: A three-pronged approach to predict the effect of plastic orthotropy on the
+    formability of thin sheets subjected to dynamic biaxial stretching
+  authors:
+  - "K.E. N\u2019souglo"
+  - N. Jacques
+  - "J.A. Rodr\xEDguez-Mart\xEDnez"
+  publisher: Journal of the Mechanics and Physics of Solids
+  date: '2021-01-01'
+  link: https://doi.org/g9tcxn
+  image: https://doi.org/10.1016/j.jmps.2020.104189
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s40870-021-00293-9
+  title: Effect of Strain Rate on the Tensile Mechanical Properties of Electron Beam
+    Welded OFE Copper and High-Purity Niobium for SRF Applications
+  authors:
+  - J.-F. Croteau
+  - M. Peroni
+  - S. Atieh
+  - N. Jacques
+  - E. Cantergiani
+  publisher: Journal of Dynamic Behavior of Materials
+  date: '2021-02-18'
+  link: https://doi.org/g9tcxp
+  image: https://link.springer.com/article/10.1007/s40870-021-00293-9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1615/Int.J.UncertaintyQuantification.2020032982
+  title: A NON-NESTED INFILLING STRATEGY FOR MULTIFIDELITY BASED EFFICIENT GLOBAL
+    OPTIMIZATION
+  authors:
+  - Matthieu Sacher
+  - "O. Le Ma\xEEtre"
+  - R. Duvigneau
+  - F. Hauville
+  - M. Durand
+  - "C. Lothod\xE9"
+  publisher: International Journal for Uncertainty Quantification
+  date: '2021-01-01'
+  link: https://doi.org/g9tcxq
+  image: https://www.dl.begellhouse.com/journals/52034eb04b657aea,44206a5570d76285,1e78cad67b88a611.html#
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/JOE.2021.3111819
+  title: "Assessment of Risks Induced by Countermining Unexploded Large-Charge Historical\
+    \ Ordnance in a Shallow Water Environment\u2014Part I: Real Case Study"
+  authors:
+  - Nathalie Favretto-Cristini
+  - Thierry Garlan
+  - Olivier Morio
+  - Xavier Demoulin
+  - Michel Arrigoni
+  - Anne Deschamps
+  - Mickael Bonnin
+  - Eric Beucler
+  - E. Diego Mercerat
+  - David Ambrois
+  - Romain Schwab
+  - Paul Cristini
+  - Fang Wang
+  publisher: IEEE Journal of Oceanic Engineering
+  date: '2022-04-01'
+  link: https://doi.org/grghvb
+  image: https://ieeexplore.ieee.org/document/9709367
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.37358/MP.22.1.5559
+  title: "Mechanical Properties of Ultra-high Molecular Weight Polyethylene (tensylon\uFFFD\
+    ) from Tensile Tests"
+  authors:
+  - Luminita-Cristina Alil
+  - Michel Arrigoni
+  - Cristian Barbu
+  - guilhem Bles
+  - Lorena Deleanu
+  - Pavel Mostovykh
+  - Simona M. Sandu
+  publisher: Materiale Plastice
+  date: '2022-04-05'
+  link: https://doi.org/g9tcxr
+  image: https://revmaterialeplastice.ro/pdf/6%20ALIL.%201%2022.pdf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/met12101702
+  title: Corrosion and Electrochemical Properties of Laser-Shock-Peening-Treated Stainless
+    Steel AISI 304L in VVER Primary Water Environment
+  authors:
+  - Xavier Arnoult
+  - "Mariana Arnoult-R\u016F\u017Ei\u010Dkov\xE1"
+  - "Jan Ma\u0148\xE1k"
+  - Alberto Viani
+  - Jan Brajer
+  - Michel Arrigoni
+  - Radek Kolman
+  - "Jan Mac\xE1k"
+  publisher: Metals
+  date: '2022-10-12'
+  link: https://doi.org/g9tcxs
+  image: https://doi.org/10.3390/met12101702
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.oceaneng.2021.110210
+  title: "Efficient jib-mainsail fluid-structure interaction modelling \u2013 Validations\
+    \ with semi-rigid sails experiments"
+  authors:
+  - Antoine Morvan
+  - Matthieu Sacher
+  - "Alain N\xEAme"
+  - Jean-Baptiste Leroux
+  - Christian Jochum
+  - Nicolas Abiven
+  publisher: Ocean Engineering
+  date: '2022-01-01'
+  link: https://doi.org/g9tcxt
+  image: https://doi.org/10.1016/j.oceaneng.2021.110210
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.oceaneng.2022.111209
+  title: Multi-objective hull form optimization of a SWATH configuration using surrogate
+    models
+  authors:
+  - Paul Renaud
+  - Matthieu Sacher
+  - Yves-Marie Scolan
+  publisher: Ocean Engineering
+  date: '2022-07-01'
+  link: https://doi.org/g9tcxv
+  image: https://doi.org/10.1016/j.oceaneng.2022.111209
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ijplas.2022.103418
+  title: 'Modeling dynamic formability of porous ductile sheets subjected to biaxial
+    stretching: Actual porosity versus homogenized porosity'
+  authors:
+  - J.C. Nieto-Fuentes
+  - N. Jacques
+  - M. Marvi-Mashhadi
+  - "K.E. N\u2019souglo"
+  - "J.A. Rodr\xEDguez-Mart\xEDnez"
+  publisher: International Journal of Plasticity
+  date: '2022-11-01'
+  link: https://doi.org/g9tcxw
+  image: https://doi.org/10.1016/j.ijplas.2022.103418
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s12289-022-01696-2
+  title: Theoretical predictions of dynamic necking formability of ductile metallic
+    sheets with evolving plastic anisotropy and tension-compression asymmetry
+  authors:
+  - M. Anil Kumar
+  - "K. E. N\u2019souglo"
+  - N. Hosseini
+  - N. Jacques
+  - "J. A. Rodr\xEDguez-Mart\xEDnez"
+  publisher: International Journal of Material Forming
+  date: '2022-06-07'
+  link: https://doi.org/g9tcxx
+  image: https://link.springer.com/article/10.1007/s12289-022-01696-2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jfluidstructs.2022.103605
+  title: Measurements of pressure during the forced water entry of a cone into pure
+    and aerated water
+  authors:
+  - Mehdi Elhimer
+  - Aboulghit El Malki Alaoui
+  - "C\xE9line Gabillet"
+  - Nicolas Jacques
+  publisher: Journal of Fluids and Structures
+  date: '2022-08-01'
+  link: https://doi.org/grwtm5
+  image: https://doi.org/10.1016/j.jfluidstructs.2022.103605
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jfluidstructs.2022.103702
+  title: Experimental investigation of the influence of the panel stiffness on the
+    behaviour of a wedge under slamming
+  authors:
+  - Bilel Meziane
+  - Aboulghit El Malki Alaoui
+  - "Alain N\xEAme"
+  - Bruno Leble
+  - Dany Bellanger
+  publisher: Journal of Fluids and Structures
+  date: '2022-10-01'
+  link: https://doi.org/g9tcxz
+  image: https://doi.org/10.1016/j.jfluidstructs.2022.103702
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1115/1.4052557
+  title: Characterization of the Formability of High-Purity Polycrystalline Niobium
+    Sheets for Superconducting Radiofrequency Applications
+  authors:
+  - "Jean-Fran\xE7ois Croteau"
+  - Guillaume Robin
+  - Elisa Cantergiani
+  - Said Atieh
+  - Nicolas Jacques
+  - Gilles Mazars
+  - Marion Martiny
+  publisher: Journal of Engineering Materials and Technology
+  date: '2021-10-21'
+  link: https://doi.org/g9tcx2
+  image: https://doi.org/10.1115/1.4052557
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.oceaneng.2022.112585
+  title: Level-crossing distributions of kinematic variables in multidirectional second-order
+    ocean waves
+  authors:
+  - "Romain Hasco\xEBt"
+  publisher: Ocean Engineering
+  date: '2022-12-01'
+  link: https://doi.org/g9tcx3
+  image: https://doi.org/10.1016/j.oceaneng.2022.112585
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/met12020226
+  title: Metallic Materials and Their Applications in Aerospace and Advanced Technologies
+  authors:
+  - Michel Arrigoni
+  publisher: Metals
+  date: '2022-01-26'
+  link: https://doi.org/g9tcx4
+  image: https://doi.org/10.3390/met12020226
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.euromechsol.2023.105060
+  title: Experimental and numerical investigations of a soft projectile impact three-point
+    bending (SPITPB) test for adhesion assessment under dynamic loading
+  authors:
+  - C. Caisso
+  - N. Dagorn
+  - W. Albouy
+  - M. Arrigoni
+  - "D. Th\xE9venet"
+  publisher: European Journal of Mechanics - A/Solids
+  date: '2023-09-01'
+  link: https://doi.org/g9tcx5
+  image: https://doi.org/10.1016/j.euromechsol.2023.105060
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.matdes.2023.111779
+  title: 'Towards hybridization of ultra-high molecular weight polyethylene composites
+    by thermally sprayed alumina: Feasibility and bond strength assessment'
+  authors:
+  - R. Bensaada
+  - A. El Malki Alaoui
+  - G. Darut
+  - S. Costil
+  - M. Arrigoni
+  publisher: Materials &amp; Design
+  date: '2023-03-01'
+  link: https://doi.org/g9tcx6
+  image: https://doi.org/10.1016/j.matdes.2023.111779
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/s23115161
+  title: Piezoresistive Behavior of a Conductive Polyurethane Based-Foam for Real-Time
+    Structural Monitoring
+  authors:
+  - Antoine Poirot
+  - Nacera Bedrici
+  - Jean-Christophe Walrick
+  - Michel Arrigoni
+  publisher: Sensors
+  date: '2023-05-29'
+  link: https://doi.org/g9tcx7
+  image: https://doi.org/10.3390/s23115161
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/adem.202201447
+  title: "Experimental Characterization of Internal Structure and Physical Properties\
+    \ of Unidirectional Ply\u2010Level Hybrid Carbon Composite Material"
+  authors:
+  - Maria Casapu
+  - Ion Fuiorea
+  - Michel Arrigoni
+  publisher: Advanced Engineering Materials
+  date: '2023-02-07'
+  link: https://doi.org/g9tcx8
+  image: https://doi.org/10.1002/adem.202201447
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ijsolstr.2023.112290
+  title: An analytical approach of design for recycling of laminate structures by
+    the use of magnetic pulse disassembling
+  authors:
+  - Benoit Lagain
+  - "Thomas Heuz\xE9"
+  - Guillaume Racineux
+  - Michel Arrigoni
+  publisher: International Journal of Solids and Structures
+  date: '2023-07-01'
+  link: https://doi.org/g9tcx9
+  image: https://doi.org/10.1016/j.ijsolstr.2023.112290
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/adem.202300728
+  title: "Numerical Analysis of Cross\u2010Sectional Effects During the Magnetic Pulse\
+    \ Disassembly of Laminate Structures"
+  authors:
+  - Benoit Lagain
+  - "Thomas Heuz\xE9"
+  - Guillaume Racineux
+  - Michel Arrigoni
+  publisher: Advanced Engineering Materials
+  date: '2023-08-17'
+  link: https://doi.org/g9tczb
+  image: https://doi.org/10.1002/adem.202300728
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1063/5.0107499
+  title: "Experimental evidence of shock wave measurements with low-velocity (&amp;lt;100\_\
+    m\_s\u22121) and fast dynamics (&amp;lt;10\_ns) capabilities using a coupled photonic\
+    \ Doppler velocimetry (PDV) and triature velocity interferometer system for any\
+    \ reflector (VISAR) diagnostic"
+  authors:
+  - G. Boutoux
+  - J.-M. Chevalier
+  - M. Arrigoni
+  - L. Berthe
+  - R. Beuton
+  - B. Bicrel
+  - "A. Galti\xE9"
+  - "D. H\xE9bert"
+  - J. Le Clanche
+  - S. Loillier
+  - D. Loison
+  - P. Maury
+  - Y. Raffray
+  - L. Videau
+  publisher: Review of Scientific Instruments
+  date: '2023-03-01'
+  link: https://doi.org/g9tczc
+  image: https://doi.org/10.1063/5.0107499
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s11029-023-10075-0
+  title: A Novel Composite Modeling Method to Analyze the Woven Fabric Structures
+    of Leading-Edge Inflatable Kites
+  authors:
+  - K. Desenclos
+  - "A. N\xEAme"
+  - J. B. Leroux
+  - C. Jochum
+  publisher: Mechanics of Composite Materials
+  date: '2023-01-01'
+  link: https://doi.org/g9tczd
+  image: https://link.springer.com/article/10.1007/s11029-023-10075-0
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.euromechflu.2023.06.002
+  title: Pressure analysis in nonlinear waves by revisiting the breaking wave onset
+  authors:
+  - Yves-Marie Scolan
+  - "St\xE9phane Etienne"
+  publisher: European Journal of Mechanics - B/Fluids
+  date: '2023-09-01'
+  link: https://doi.org/g9tczf
+  image: https://doi.org/10.1016/j.euromechflu.2023.06.002
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s10665-022-10246-3
+  title: Some aspects of the pressure field preceding the onset of critical jets in
+    a breaking wave
+  authors:
+  - Yves-Marie Scolan
+  publisher: Journal of Engineering Mathematics
+  date: '2022-11-15'
+  link: https://doi.org/g9tczg
+  image: https://link.springer.com/article/10.1007/s10665-022-10246-3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.oceaneng.2023.114116
+  title: Semi-analytical load models describing the progressive immersion of a fixed
+    vertical cylinder in a breaking wave
+  authors:
+  - Paul Renaud
+  - Marc Batlle Martin
+  - Florian Hulin
+  - Jeffrey C. Harris
+  - "Jean-Fran\xE7ois Filipot"
+  - Yves-Marie Scolan
+  publisher: Ocean Engineering
+  date: '2023-05-01'
+  link: https://doi.org/g9tczh
+  image: https://doi.org/10.1016/j.oceaneng.2023.114116
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.euromechflu.2023.02.006
+  title: "Simulation of water entry\u2013exit problems highlighting suction phenomena\
+    \ by coupled Eulerian\u2013Lagrangian approach"
+  authors:
+  - M. Goron
+  - B. Langrand
+  - N. Jacques
+  - T. Fourest
+  - A. Tassin
+  - A. Robert
+  - D. Chauveheid
+  publisher: European Journal of Mechanics - B/Fluids
+  date: '2023-07-01'
+  link: https://doi.org/gtkgk2
+  image: https://doi.org/10.1016/j.euromechflu.2023.02.006
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ijimpeng.2023.104556
+  title: Gas gun driven dynamic expansion of 3D-printed AlSi10Mg rings
+  authors:
+  - J.C. Nieto-Fuentes
+  - T. Virazels
+  - N. Jacques
+  - "J.A. Rodr\xEDguez-Mart\xEDnez"
+  publisher: International Journal of Impact Engineering
+  date: '2023-10-01'
+  link: https://doi.org/g9tczj
+  image: https://doi.org/10.1016/j.ijimpeng.2023.104556
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1017/jfm.2022.705
+  title: On the dynamics of a collapsing bubble in contact with a rigid wall
+  authors:
+  - Mandeep Saini
+  - Erwan Tanne
+  - Michel Arrigoni
+  - Stephane Zaleski
+  - Daniel Fuster
+  publisher: Journal of Fluid Mechanics
+  date: '2022-09-15'
+  link: https://doi.org/gs52pb
+  image: https://doi.org/10.1017/jfm.2022.705
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.compfluid.2024.106245
+  title: Fully higher-order coupling of finite element and level set methods for two-phase
+    flow with a new explicit projection method
+  authors:
+  - "Le\xEFla Salomon"
+  - Pierre-Michel Guilcher
+  publisher: Computers &amp; Fluids
+  date: '2024-05-01'
+  link: https://doi.org/g9tczk
+  image: https://doi.org/10.1016/j.compfluid.2024.106245
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3144/expresspolymlett.2024.77
+  title: "Static and dynamic behaviour of ultra high molecular weight poly-ethylene\
+    \ (UHMWPE) Tensylon\xAE composite"
+  authors:
+  - Magali Castres
+  - Aboulghit El Malki Alaoui
+  - Camille Caisso
+  - Martin Monloubou
+  - Michel Arrigoni
+  publisher: Express Polymer Letters
+  date: '2024-01-01'
+  link: https://doi.org/g9tczm
+  image: https://doi.org/10.3144/expresspolymlett.2024.77
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1063/5.0232258
+  title: Influence of the equation of state for moderate to high pressure gaseous
+    systems
+  authors:
+  - M. Brateau
+  - S. Kerampran
+  - A. Bouchama
+  - A. Clough
+  - M. Arrigoni
+  publisher: Physics of Fluids
+  date: '2024-10-01'
+  link: https://doi.org/g9tczn
+  image: https://doi.org/10.1063/5.0232258
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3144/expresspolymlett.2024.4
+  title: Damage assessment through cyclic load-unload tensile tests for ply-level
+    hybrid carbon fiber composites
+  authors:
+  - Maria Casapu
+  - Ion Fuiorea
+  - Michel Arrigoni
+  publisher: Express Polymer Letters
+  date: '2024-01-01'
+  link: https://doi.org/g9tczp
+  image: https://www.expresspolymlett.com/article.php?a=EPL-0012710
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.matlet.2024.136083
+  title: Laser-induced shockwaves for damage assessment and characterization at high
+    strain rates in the fiber direction of unidirectional composites
+  authors:
+  - Maria Casapu
+  - "Alexandru C\u0103t\u0103lin Casapu"
+  - Michel Arrigoni
+  - Ion Fuiorea
+  publisher: Materials Letters
+  date: '2024-04-01'
+  link: https://doi.org/g9tczq
+  image: https://doi.org/10.1016/j.matlet.2024.136083
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.apor.2024.104157
+  title: Performance prediction of a hydrofoil near the free surface using low (BEM)
+    and high (RANS) fidelity methods
+  authors:
+  - Paolo Perali
+  - Matthieu Sacher
+  - Jean-Baptiste Leroux
+  - Jeroen Wackers
+  - "Beno\xEEt Augier"
+  - "Fr\xE9d\xE9ric Hauville"
+  - Patrick Bot
+  publisher: Applied Ocean Research
+  date: '2024-10-01'
+  link: https://doi.org/g9tczr
+  image: https://doi.org/10.1016/j.apor.2024.104157
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/17445302.2024.2422518
+  title: Optimising hydrofoils using automated multi-fidelity surrogate models
+  authors:
+  - Hayriye Pehlivan Solak
+  - Jeroen Wackers
+  - Riccardo Pellegrini
+  - Andrea Serani
+  - Matteo Diez
+  - Paolo Perali
+  - Matthieu Sacher
+  - Jean-Baptiste Leroux
+  - "Beno\xEEt Augier"
+  - "Fr\xE9d\xE9ric Hauville"
+  - Patrick Bot
+  publisher: Ships and Offshore Structures
+  date: '2024-11-14'
+  link: https://doi.org/g9tczs
+  image: https://doi.org/10.1080/17445302.2024.2422518
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.apor.2024.104123
+  title: On some properties of the pressure in nonlinear two-dimensional potential
+    flow with a free surface
+  authors:
+  - Yves-Marie Scolan
+  publisher: Applied Ocean Research
+  date: '2024-09-01'
+  link: https://doi.org/g9tczt
+  image: https://doi.org/10.1016/j.apor.2024.104123
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jsv.2024.118378
+  title: "A direct multimode method for the reduction of vibration induced oscillations\
+    \ on force signals during \u201Cpseudo-rigid\u201D water impact experiments"
+  authors:
+  - Alan Tassin
+  - Florian Hulin
+  - Nicolas Jacques
+  publisher: Journal of Sound and Vibration
+  date: '2024-07-01'
+  link: https://doi.org/g85m59
+  image: https://doi.org/10.1016/j.jsv.2024.118378
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ijmultiphaseflow.2024.104917
+  title: Flow topology changes with bubbly flow around a circular cylinder
+  authors:
+  - Eric Thacher
+  - Bruno Van Ruymbeke
+  - "C\xE9line Gabillet"
+  - Nicolas Jacques
+  - "Simo A. M\xE4kiharju"
+  publisher: International Journal of Multiphase Flow
+  date: '2024-09-01'
+  link: https://doi.org/g9tczv
+  image: https://doi.org/10.1016/j.ijmultiphaseflow.2024.104917
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.oceaneng.2024.118024
+  title: 'Capsize criteria in beam seas: Melnikov analysis vs. safe basin erosion'
+  authors:
+  - Christos E. Papoutsellis
+  - Yves-Marie Scolan
+  - "Romain Hasco\xEBt"
+  publisher: Ocean Engineering
+  date: '2024-08-01'
+  link: https://doi.org/g9tczw
+  image: https://doi.org/10.1016/j.oceaneng.2024.118024
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.oceaneng.2024.117363
+  title: 'Multi-objective optimization of cycloidal blade-controlled propeller: An
+    experimental approach'
+  authors:
+  - Guillaume Fasse
+  - Matthieu Sacher
+  - Frederic Hauville
+  - Jacques-Andre Astolfi
+  - Gregory Germain
+  publisher: Ocean Engineering
+  date: '2024-05-01'
+  link: https://doi.org/g9tczx
+  image: https://doi.org/10.1016/j.oceaneng.2024.117363
   plugin: sources.py
   file: sources.yaml
